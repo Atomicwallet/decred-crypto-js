@@ -1,5 +1,5 @@
 {
-  "name": "crypto-js",
+  "name": "decred-crypto-js",
   "private": true,
   "version": "1.0.0",
   "description": "Crypto functions",
